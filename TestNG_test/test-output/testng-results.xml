@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-15T16:02:00 IST" name="Default suite" finished-at="2022-09-15T16:02:01 IST" duration-ms="135">
+    <groups>
+    </groups>
+    <test started-at="2022-09-15T16:02:00 IST" name="Default test" finished-at="2022-09-15T16:02:01 IST" duration-ms="135">
+      <class name="NewTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:00 IST" name="beforeSuite" finished-at="2022-09-15T16:02:00 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:00 IST" name="beforeTest" finished-at="2022-09-15T16:02:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:00 IST" name="beforeClass" finished-at="2022-09-15T16:02:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:00 IST" name="beforeMethod" finished-at="2022-09-15T16:02:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testngChecka()[pri:1, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:00 IST" name="testngChecka" finished-at="2022-09-15T16:02:00 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngChecka -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:00 IST" name="afterMethod" finished-at="2022-09-15T16:02:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:00 IST" name="beforeMethod" finished-at="2022-09-15T16:02:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testngCheckb()[pri:2, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="testngCheckb" finished-at="2022-09-15T16:02:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngCheckb -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="afterMethod" finished-at="2022-09-15T16:02:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testngCheckd()[pri:3, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="testngCheckd" finished-at="2022-09-15T16:02:01 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngCheckd -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="beforeMethod" finished-at="2022-09-15T16:02:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="afterMethod" finished-at="2022-09-15T16:02:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="beforeMethod" finished-at="2022-09-15T16:02:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testngCheckc()[pri:4, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="testngCheckc" finished-at="2022-09-15T16:02:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testngCheckc -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="afterMethod" finished-at="2022-09-15T16:02:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="afterClass" finished-at="2022-09-15T16:02:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="afterTest" finished-at="2022-09-15T16:02:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:NewTest@306f16f3]" started-at="2022-09-15T16:02:01 IST" name="afterSuite" finished-at="2022-09-15T16:02:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
